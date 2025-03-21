@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_Projects/PracticeZL/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/UE_Projects/PracticeZL/Content/ThirdPerson/Actor/ProjectileBall.uasset",
+				"D:/UE_Projects/PracticeZL/Content/ThirdPerson/Actor/M_ProjectileBall.uasset",
+				"D:/UE_Projects/PracticeZL/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
